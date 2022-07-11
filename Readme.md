@@ -1,0 +1,1 @@
+В данном домашнем задании я выполнял таски c сайта learn-javascript а также https://tproger.ru/
